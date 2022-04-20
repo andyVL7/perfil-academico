@@ -3,6 +3,7 @@
 ## Estudiante de Geografía de la Universidad de Costa Rica
 
 
+![](A.jpg)
 
 **Cursos Matriculados para I semestre 2022:**  
 - Procesamiento de Datos Geográficos.  
